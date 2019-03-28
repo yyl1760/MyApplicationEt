@@ -36,7 +36,7 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         imgView = (ImageView) findViewById(R.id.imgView);
-        String url = "http://42.243.109.158:7001/et/msys/index.html" ;//139
+        String url = "http://116.52.6.112/et/msys/index.html" ;//139
         //String url = "http://192.168.0.123:8081/recjc_ym/m_sys/_start.html" ;//me
         //String url = "http://192.168.2.113:8081/recjc_ym/m_sys/_start.html" ;//me
         // "http://139.129.202.71/recjc/m_sys/_start.html" ;
